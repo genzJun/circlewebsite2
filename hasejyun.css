@@ -70,10 +70,10 @@ body{
 }
 
 #home{
-    background-image:url(ASHIZARU13.png),linear-gradient(hsl(0, 0%, 100%),#7d96e7b7);
+    background-image:url(ASHIZARU13.png),linear-gradient(hsl(0, 0%, 100%),#9792fdb7);
     background-blend-mode:luminosity;
     min-height:100vh;
-    background-color: rgb(145, 171, 254);
+    background-color: rgb(159, 162, 255);
     font-family:HiraMinProN-W6;
 }
 
@@ -89,7 +89,6 @@ body{
 }
 
 .footer-logo {
-    padding-left:0px;
     font-size: 12px;
 }
 
