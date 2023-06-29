@@ -1,0 +1,106 @@
+*{
+  margin:0;
+  padding:0;
+    
+}
+
+li{
+    list-style:none;
+}
+body{
+    
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+    height:10%;
+    background-color: black;
+    color: white;
+}
+.header-logo{
+    
+}
+
+.header-list ul{
+    display:flex;
+}
+.header-list li{
+    list-style:none;
+    padding:10px 20px;
+    font-size:10px;
+}
+
+
+.main{
+    height:80%;
+}
+
+.left-index{
+    
+    
+
+
+
+}
+.left-index ul{
+    
+
+}
+.left-index li{
+    padding:10px
+    
+
+
+
+}
+
+.right-index{
+    text-align: right;
+}
+
+.right-index li{
+    padding:10px;
+}
+
+.big-bg{
+    background-size:cover;
+    background-position:center top;
+    
+    
+}
+
+#home{
+    background-image:url(ASHIZARU13.png),linear-gradient(hsl(0, 0%, 100%),#9792fdb7);
+    background-blend-mode:luminosity;
+    min-height:100vh;
+    background-color: rgb(159, 162, 255);
+    font-family:HiraMinProN-W6;
+}
+
+
+.footer {
+    height: 3%;
+    width:100%;
+    color: white;
+    background-color: black;
+    justify-content:space-between;
+    position:absolute;
+    bottom:0;
+}
+
+.footer-logo {
+    font-size: 12px;
+}
+
+.footer-list {
+    text-align: center;
+}
+
+.footer-list li {
+    list-style:none;
+    padding:0px 20px;
+    font-size: 8px;
+}
+.footer-list ul{
+     display: flex;
+}

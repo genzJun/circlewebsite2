@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:HiraMinProN-W6;
+}
+
+
+.addditon-to-list{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.textarea_wrapper{
+    display:flex;
+    flex-flow:column;
+    margin:50px;
+}
+    
+
+.title{
+    border:1px solid blue;
+    
+    
+       
+}
+
+.content{
+    border:1px solid blue;
+    
+       
+}
